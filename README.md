@@ -1,5 +1,5 @@
 # o/
-**¿Making a game or something?** \n
+**¿Making a game or something?**
 **♪ Likes making code and music ♪ **
 
 <picture>
