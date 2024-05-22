@@ -17,3 +17,10 @@ I like making games and music! I also make videos about my process :)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![GD Script](https://img.shields.io/badge/-GD_Script-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+
+## Find me here :)
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/wavcatt)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2M08o1W4S7rtFP1Zc-jFXw)
+[![Personal Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=About.me&logoColor=white)](https://www.google.com)
+
