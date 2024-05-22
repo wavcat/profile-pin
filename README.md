@@ -1,8 +1,9 @@
 # o/
-**Making a game or something¿**
+**¿Making a game or something?**
+**♪ Likes making code and music ♪ **
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.dexerto.com/cdn-image/wp-content/uploads/2024/05/10/george-cooper-heart-attack.jpg?width=3840&quality=60&format=auto">
+  <source media="(prefers-color-scheme: light)" srcset="https://static.wikia.nocookie.net/bigbangtheory/images/e/e6/George_Cooper_Season_7_Promo.jpg/revision/latest/scale-to-width-down/250?cb=20240209023931">
+  <img alt="Shows a normal looking guy!">
 </picture>
