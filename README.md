@@ -6,7 +6,7 @@ I like making games and music! I also make videos about my process :)
 
 ## About Me
 
-- 🔭 I’m currently working on a game with Little Gnome Games
+- 🔭 I’m currently working on a game
 - 🌱 I’m currently studying Software Engineering
 - 📫 Contact Me: wavcatmail@gmail.com
 
