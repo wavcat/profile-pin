@@ -1,2 +1,2 @@
-# profile-pin
-pinned read me for my profile :)
+# o/
+**Making a game or something¿**
