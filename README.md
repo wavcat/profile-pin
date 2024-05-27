@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+👋;I'm+Kenzie!)](https://git.io/typing-svg)
-# Hi there 👋
 
-I'm kenzie!
 
 I like making games and music! I also make videos about my process :)
 
