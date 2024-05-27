@@ -24,6 +24,6 @@ I like making games and music! I also make videos about my process :)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2M08o1W4S7rtFP1Zc-jFXw)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiwavcat=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?wavcat=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
