@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+👋;I'm+Kenzie!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=30&pause=500&color=1EE19A&random=false&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Kenzie!)](https://git.io/typing-svg)
 
 
 I like making games and music! I also make videos about my process :)
